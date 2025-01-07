@@ -1,0 +1,7 @@
+title: My Bioinformatics Portfolio
+description: A collection of my bioinformatics projects and research
+baseurl: "" 
+url: "https://Gayathri-Iragavarapu.github.io" # Your GitHub Pages URL
+
+theme: jekyll-theme-minimal # Or any theme you prefer
+markdown: kramdown
